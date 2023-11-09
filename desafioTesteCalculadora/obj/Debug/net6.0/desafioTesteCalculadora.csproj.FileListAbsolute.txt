@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Ex1_API\desafioTesteCalculadora\bin\Debug\net6.0\desafioTesteCalculadora.exe
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Ex1_API\desafioTesteCalculadora\bin\Debug\net6.0\desafioTesteCalculadora.deps.json
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Ex1_API\desafioTesteCalculadora\bin\Debug\net6.0\desafioTesteCalculadora.runtimeconfig.json
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Ex1_API\desafioTesteCalculadora\bin\Debug\net6.0\desafioTesteCalculadora.dll
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Ex1_API\desafioTesteCalculadora\bin\Debug\net6.0\desafioTesteCalculadora.pdb
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Ex1_API\desafioTesteCalculadora\obj\Debug\net6.0\desafioTesteCalculadora.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Ex1_API\desafioTesteCalculadora\obj\Debug\net6.0\desafioTesteCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Ex1_API\desafioTesteCalculadora\obj\Debug\net6.0\desafioTesteCalculadora.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Ex1_API\desafioTesteCalculadora\obj\Debug\net6.0\desafioTesteCalculadora.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Ex1_API\desafioTesteCalculadora\obj\Debug\net6.0\desafioTesteCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Ex1_API\desafioTesteCalculadora\obj\Debug\net6.0\desafioTesteCalculadora.dll
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Ex1_API\desafioTesteCalculadora\obj\Debug\net6.0\refint\desafioTesteCalculadora.dll
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Ex1_API\desafioTesteCalculadora\obj\Debug\net6.0\desafioTesteCalculadora.pdb
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Ex1_API\desafioTesteCalculadora\obj\Debug\net6.0\desafioTesteCalculadora.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\projetos_C_sharp\source\repos\Ex1_API\desafioTesteCalculadora\obj\Debug\net6.0\ref\desafioTesteCalculadora.dll
